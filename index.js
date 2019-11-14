@@ -1,3 +1,4 @@
+//All mistakes from the img
 var mistakes = [
         { 'x': 145, 'y': 130 }, // Biene, Punkt, Flügel        
         { 'x': 166, 'y': 213 }, // Biene, Linie, unter Bein        
