@@ -1,3 +1,16 @@
+.div_with_img {
+    margin-right:10px;
+    display:inline;
+}
+
+img {
+	width:400px; 
+	height:500px; 
+
+	object-fit: fill;
+}
+
+  
 area:hover {
 	border: solid
 }
